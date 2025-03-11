@@ -1,0 +1,16 @@
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\CalculadoraInterfaceGrafica\bin\Debug\net8.0-windows\CalculadoraInterfaceGrafica.exe
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\CalculadoraInterfaceGrafica\bin\Debug\net8.0-windows\CalculadoraInterfaceGrafica.deps.json
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\CalculadoraInterfaceGrafica\bin\Debug\net8.0-windows\CalculadoraInterfaceGrafica.runtimeconfig.json
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\CalculadoraInterfaceGrafica\bin\Debug\net8.0-windows\CalculadoraInterfaceGrafica.dll
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\CalculadoraInterfaceGrafica\bin\Debug\net8.0-windows\CalculadoraInterfaceGrafica.pdb
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\CalculadoraInterfaceGrafica\obj\Debug\net8.0-windows\CalculadoraInterfaceGrafica.Form1.resources
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\CalculadoraInterfaceGrafica\obj\Debug\net8.0-windows\CalculadoraInterfaceGrafica.csproj.GenerateResource.cache
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\CalculadoraInterfaceGrafica\obj\Debug\net8.0-windows\CalculadoraInterfaceGrafica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\CalculadoraInterfaceGrafica\obj\Debug\net8.0-windows\CalculadoraInterfaceGrafica.AssemblyInfoInputs.cache
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\CalculadoraInterfaceGrafica\obj\Debug\net8.0-windows\CalculadoraInterfaceGrafica.AssemblyInfo.cs
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\CalculadoraInterfaceGrafica\obj\Debug\net8.0-windows\CalculadoraInterfaceGrafica.csproj.CoreCompileInputs.cache
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\CalculadoraInterfaceGrafica\obj\Debug\net8.0-windows\CalculadoraInterfaceGrafica.dll
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\CalculadoraInterfaceGrafica\obj\Debug\net8.0-windows\refint\CalculadoraInterfaceGrafica.dll
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\CalculadoraInterfaceGrafica\obj\Debug\net8.0-windows\CalculadoraInterfaceGrafica.pdb
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\CalculadoraInterfaceGrafica\obj\Debug\net8.0-windows\CalculadoraInterfaceGrafica.genruntimeconfig.cache
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\CalculadoraInterfaceGrafica\obj\Debug\net8.0-windows\ref\CalculadoraInterfaceGrafica.dll
