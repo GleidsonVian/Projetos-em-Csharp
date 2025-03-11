@@ -1,0 +1,14 @@
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\RetanguloExercicio1\bin\Debug\net8.0\RetanguloExercicio1.exe
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\RetanguloExercicio1\bin\Debug\net8.0\RetanguloExercicio1.deps.json
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\RetanguloExercicio1\bin\Debug\net8.0\RetanguloExercicio1.runtimeconfig.json
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\RetanguloExercicio1\bin\Debug\net8.0\RetanguloExercicio1.dll
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\RetanguloExercicio1\bin\Debug\net8.0\RetanguloExercicio1.pdb
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\RetanguloExercicio1\obj\Debug\net8.0\RetanguloExercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\RetanguloExercicio1\obj\Debug\net8.0\RetanguloExercicio1.AssemblyInfoInputs.cache
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\RetanguloExercicio1\obj\Debug\net8.0\RetanguloExercicio1.AssemblyInfo.cs
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\RetanguloExercicio1\obj\Debug\net8.0\RetanguloExercicio1.csproj.CoreCompileInputs.cache
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\RetanguloExercicio1\obj\Debug\net8.0\RetanguloExercicio1.dll
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\RetanguloExercicio1\obj\Debug\net8.0\refint\RetanguloExercicio1.dll
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\RetanguloExercicio1\obj\Debug\net8.0\RetanguloExercicio1.pdb
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\RetanguloExercicio1\obj\Debug\net8.0\RetanguloExercicio1.genruntimeconfig.cache
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\RetanguloExercicio1\obj\Debug\net8.0\ref\RetanguloExercicio1.dll
