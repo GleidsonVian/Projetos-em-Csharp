@@ -1,0 +1,14 @@
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\ListExercicioClientes\bin\Debug\net8.0\ListExercicioClientes.exe
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\ListExercicioClientes\bin\Debug\net8.0\ListExercicioClientes.deps.json
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\ListExercicioClientes\bin\Debug\net8.0\ListExercicioClientes.runtimeconfig.json
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\ListExercicioClientes\bin\Debug\net8.0\ListExercicioClientes.dll
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\ListExercicioClientes\bin\Debug\net8.0\ListExercicioClientes.pdb
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\ListExercicioClientes\obj\Debug\net8.0\ListExercicioClientes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\ListExercicioClientes\obj\Debug\net8.0\ListExercicioClientes.AssemblyInfoInputs.cache
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\ListExercicioClientes\obj\Debug\net8.0\ListExercicioClientes.AssemblyInfo.cs
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\ListExercicioClientes\obj\Debug\net8.0\ListExercicioClientes.csproj.CoreCompileInputs.cache
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\ListExercicioClientes\obj\Debug\net8.0\ListExercicioClientes.dll
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\ListExercicioClientes\obj\Debug\net8.0\refint\ListExercicioClientes.dll
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\ListExercicioClientes\obj\Debug\net8.0\ListExercicioClientes.pdb
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\ListExercicioClientes\obj\Debug\net8.0\ListExercicioClientes.genruntimeconfig.cache
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\ListExercicioClientes\obj\Debug\net8.0\ref\ListExercicioClientes.dll
