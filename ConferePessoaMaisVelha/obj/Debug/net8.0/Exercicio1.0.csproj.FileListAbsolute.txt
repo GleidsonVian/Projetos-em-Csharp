@@ -1,0 +1,14 @@
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\Exercicio1.0\bin\Debug\net8.0\Exercicio1.0.exe
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\Exercicio1.0\bin\Debug\net8.0\Exercicio1.0.deps.json
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\Exercicio1.0\bin\Debug\net8.0\Exercicio1.0.runtimeconfig.json
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\Exercicio1.0\bin\Debug\net8.0\Exercicio1.0.dll
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\Exercicio1.0\bin\Debug\net8.0\Exercicio1.0.pdb
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\Exercicio1.0\obj\Debug\net8.0\Exercicio1.0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\Exercicio1.0\obj\Debug\net8.0\Exercicio1.0.AssemblyInfoInputs.cache
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\Exercicio1.0\obj\Debug\net8.0\Exercicio1.0.AssemblyInfo.cs
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\Exercicio1.0\obj\Debug\net8.0\Exercicio1.0.csproj.CoreCompileInputs.cache
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\Exercicio1.0\obj\Debug\net8.0\Exercicio1.0.dll
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\Exercicio1.0\obj\Debug\net8.0\refint\Exercicio1.0.dll
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\Exercicio1.0\obj\Debug\net8.0\Exercicio1.0.pdb
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\Exercicio1.0\obj\Debug\net8.0\Exercicio1.0.genruntimeconfig.cache
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\Exercicio1.0\obj\Debug\net8.0\ref\Exercicio1.0.dll
