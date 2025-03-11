@@ -1,0 +1,14 @@
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\metodoclasseestaticoexercicio1\bin\Debug\net8.0\metodoclasseestaticoexercicio1.exe
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\metodoclasseestaticoexercicio1\bin\Debug\net8.0\metodoclasseestaticoexercicio1.deps.json
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\metodoclasseestaticoexercicio1\bin\Debug\net8.0\metodoclasseestaticoexercicio1.runtimeconfig.json
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\metodoclasseestaticoexercicio1\bin\Debug\net8.0\metodoclasseestaticoexercicio1.dll
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\metodoclasseestaticoexercicio1\bin\Debug\net8.0\metodoclasseestaticoexercicio1.pdb
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\metodoclasseestaticoexercicio1\obj\Debug\net8.0\metodoclasseestaticoexercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\metodoclasseestaticoexercicio1\obj\Debug\net8.0\metodoclasseestaticoexercicio1.AssemblyInfoInputs.cache
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\metodoclasseestaticoexercicio1\obj\Debug\net8.0\metodoclasseestaticoexercicio1.AssemblyInfo.cs
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\metodoclasseestaticoexercicio1\obj\Debug\net8.0\metodoclasseestaticoexercicio1.csproj.CoreCompileInputs.cache
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\metodoclasseestaticoexercicio1\obj\Debug\net8.0\metodoclasseestaticoexercicio1.dll
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\metodoclasseestaticoexercicio1\obj\Debug\net8.0\refint\metodoclasseestaticoexercicio1.dll
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\metodoclasseestaticoexercicio1\obj\Debug\net8.0\metodoclasseestaticoexercicio1.pdb
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\metodoclasseestaticoexercicio1\obj\Debug\net8.0\metodoclasseestaticoexercicio1.genruntimeconfig.cache
+C:\Users\GLEIDISON\pasta4\C#\Antonio Rocha\metodoclasseestaticoexercicio1\obj\Debug\net8.0\ref\metodoclasseestaticoexercicio1.dll
